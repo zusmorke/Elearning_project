@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "L:\\template\\backendAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "L:\\Elearning_project\\backendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|l:\\elearning_project\\backendapi\\backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "backendAPI\\WeatherForecast.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "backendAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:37:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Controllers\\UserController.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backendAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:21:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backendAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:24:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Models\\User.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\Models\\User.cs",
+              "RelativeToolTip": "backendAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:17:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backendAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:08:29.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "backendAPI",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.csproj",
+              "RelativeDocumentMoniker": "backendAPI\\backendAPI.csproj",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.csproj",
+              "RelativeToolTip": "backendAPI\\backendAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T07:07:59.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "backendAPI\\appsettings.json",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\appsettings.json",
+              "RelativeToolTip": "backendAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T07:05:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Program.cs",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeToolTip": "backendAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:04:50.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "backendAPI.http",
+              "DocumentMoniker": "L:\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.http",
+              "RelativeDocumentMoniker": "backendAPI\\backendAPI.http",
+              "ToolTip": "L:\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.http",
+              "RelativeToolTip": "backendAPI\\backendAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-22T07:04:49.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
