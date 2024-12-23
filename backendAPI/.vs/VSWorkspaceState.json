@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backendAPI",
+    "\\backendAPI\\Controllers",
+    "\\backendAPI\\Data",
+    "\\backendAPI\\DTOs",
+    "\\backendAPI\\Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}
