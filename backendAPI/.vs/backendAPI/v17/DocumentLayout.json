@@ -7,28 +7,24 @@
       "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|a:\\buianhtu\\project\\elearning_project\\backendapi\\backendapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A171B-B1A7-4148-8797-61EF872789F7}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -78,26 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "backendAPI\\Models\\User.cs",
               "ToolTip": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Models\\User.cs",
               "RelativeToolTip": "backendAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T07:17:54.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "backendAPI\\Data\\AppDbContext.cs",
               "ToolTip": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "backendAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T07:08:29.673Z",
               "EditorCaption": ""
@@ -110,35 +106,22 @@
               "RelativeDocumentMoniker": "backendAPI\\Controllers\\UserController.cs",
               "ToolTip": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "backendAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwE8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T07:21:48.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Program.cs",
               "RelativeDocumentMoniker": "backendAPI\\Program.cs",
               "ToolTip": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Program.cs",
               "RelativeToolTip": "backendAPI\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T07:04:50.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "backendAPI.http",
-              "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.http",
-              "RelativeDocumentMoniker": "backendAPI\\backendAPI.http",
-              "ToolTip": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.http",
-              "RelativeToolTip": "backendAPI\\backendAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-22T07:04:49.29Z",
               "EditorCaption": ""
             },
             {
@@ -156,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserLoginDTO.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\DTOs\\UserLoginDTO.cs",
               "RelativeDocumentMoniker": "backendAPI\\DTOs\\UserLoginDTO.cs",
@@ -164,12 +147,11 @@
               "RelativeToolTip": "backendAPI\\DTOs\\UserLoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:15:38.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:15:38.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "backendAPI.csproj.user",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.csproj.user",
               "RelativeDocumentMoniker": "backendAPI\\backendAPI.csproj.user",
@@ -181,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "backendAPI\\appsettings.Development.json",
@@ -193,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "backendAPI.csproj",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\backendAPI.csproj",
               "RelativeDocumentMoniker": "backendAPI\\backendAPI.csproj",
@@ -205,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "backendAPI\\WeatherForecast.cs",
@@ -217,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "A:\\BuiAnhTu\\Project\\Elearning_project\\backendAPI\\backendAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "backendAPI\\Controllers\\WeatherForecastController.cs",

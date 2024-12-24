@@ -16,6 +16,7 @@ export class RegisterComponent {
     username: '',
     email: '',
     password: '',
+    role: '',
   };
 
   apiUrl = 'https://localhost:7092/api/User/register'; 
@@ -24,9 +25,10 @@ export class RegisterComponent {
 
   onSubmit() {
     this.http.post(this.apiUrl, this.user).subscribe({
+
       next: (response: any) => {
-        alert(response.message);
-        this.router.navigate(['/login']);
+        alert(response.message); // Hiển thị thông báo từ API
+        this.router.navigate(['/login']); // Chuyển hướng tới trang đăng nhập
       },
       error: (err) => {
         if (err.status === 409) {
@@ -37,4 +39,4 @@ export class RegisterComponent {
       },
     });
   }
-}
+}  

@@ -22,8 +22,8 @@ export class LoginComponent {
 
   onSubmit() {
     this.http.post(this.apiUrl, this.user).subscribe({
-      next: (response) => {
-        alert('Login successful');
+      next: (response: any) => {
+        alert(response.message);
         this.router.navigate(['/dashboard']); // Redirect to dashboard
       },
       error: (err) => {

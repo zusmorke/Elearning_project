@@ -38,20 +38,19 @@ namespace backendAPI.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState);
+                return BadRequest("Invalid data.");
             }
 
-            // Check if username already exists
             if (await _context.Users.AnyAsync(u => u.username == user.username))
             {
-                return Conflict("Username already exists.");
+                return Conflict(new { message = "Tên người dùng đã tồn tại." });
             }
 
-            // Gán giá trị mặc định cho role nếu chưa được chỉ định
-            user.role = string.IsNullOrEmpty(user.role) ? "Student" : user.role;
+            user.role = string.IsNullOrEmpty(user.role) ? "student" : user.role;
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
+
             return Ok(new { message = "Đăng ký thành công." });
         }
 
@@ -78,7 +77,7 @@ namespace backendAPI.Controllers
         [HttpPost("logout")]
         public IActionResult Logout()
         {
-            return Ok(new { message = "Logged out successfully" });
+            return Ok(new { message = "Đăng xuất thành công" });
         }
     }
 }
