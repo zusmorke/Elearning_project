@@ -207,9 +207,6 @@ L:\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\runtimes\win\lib\net
 L:\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 L:\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 L:\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.dll
-A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\refint\backendAPI.dll
-A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.pdb
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.csproj.AssemblyReference.cache
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.GeneratedMSBuildEditorConfig.editorconfig
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.AssemblyInfoInputs.cache
@@ -218,9 +215,12 @@ A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\bac
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.MvcApplicationPartsAssemblyInfo.cs
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.MvcApplicationPartsAssemblyInfo.cache
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.sourcelink.json
+A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.dll
+A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\refint\backendAPI.dll
+A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\obj\Debug\net8.0\backendAPI.pdb
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\appsettings.Development.json
-A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\appsettings.json
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\backendAPI.staticwebassets.endpoints.json
+A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\appsettings.json
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\backendAPI.exe
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\backendAPI.deps.json
 A:\BuiAnhTu\Project\Elearning_project\backendAPI\backendAPI\bin\Debug\net8.0\backendAPI.runtimeconfig.json

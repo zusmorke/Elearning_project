@@ -1,9 +1,8 @@
-﻿using backendAPI.Models;
-using backendAPI.Model; 
+﻿using backendAPI.Model;
+using backendAPI.Models;
 using backendAPI.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
 
 namespace backendAPI.Controllers
 {
@@ -17,7 +16,6 @@ namespace backendAPI.Controllers
         {
             _context = context;
         }
-
 
         // API endpoint to get all users
         [HttpGet]
@@ -49,9 +47,12 @@ namespace backendAPI.Controllers
                 return Conflict("Username already exists.");
             }
 
+            // Gán giá trị mặc định cho role nếu chưa được chỉ định
+            user.role = string.IsNullOrEmpty(user.role) ? "Student" : user.role;
+
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
-            return Ok("User registered successfully.");
+            return Ok(new { message = "Đăng ký thành công." });
         }
 
         // API đăng nhập người dùng
@@ -71,20 +72,13 @@ namespace backendAPI.Controllers
                 return Unauthorized("Invalid username or password.");
             }
 
-            return Ok("Login successful.");
+            return Ok(new { message = "Đăng nhập thành công." });
         }
         // Đăng xuất
         [HttpPost("logout")]
         public IActionResult Logout()
         {
-            // Xóa session của người dùng
-            HttpContext.Session.Clear();
-
-            // Hoặc nếu lưu thông tin vào cookies, xóa cookies
-            Response.Cookies.Delete(".AspNetCore.Session");
-
             return Ok(new { message = "Logged out successfully" });
         }
-
     }
 }

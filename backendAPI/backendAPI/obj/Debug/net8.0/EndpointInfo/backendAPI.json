@@ -160,9 +160,6 @@
   "components": {
     "schemas": {
       "User": {
-        "required": [
-          "username"
-        ],
         "type": "object",
         "properties": {
           "user_id": {
@@ -170,8 +167,8 @@
             "format": "int32"
           },
           "username": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "password": {
             "type": "string",
